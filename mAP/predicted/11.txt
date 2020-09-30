@@ -1,0 +1,9 @@
+without_mask 0.5961 266 69 277 81
+with_mask 0.8763 332 64 346 80
+with_mask 0.8368 361 64 375 81
+with_mask 0.6624 205 34 223 55
+with_mask 0.4724 153 24 180 49
+with_mask 0.4052 59 41 88 65
+with_mask 0.3868 295 87 305 98
+with_mask 0.3255 101 54 111 64
+with_mask 0.3026 162 0 169 7

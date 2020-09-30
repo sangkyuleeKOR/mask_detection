@@ -1,0 +1,56 @@
+# AP and precision/recall per class
+0.00% = 0 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 1 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 2 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 3 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 4 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 5 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 6 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 7 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 8 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+0.00% = 9 AP  
+ Precision: ['0.00', '0.00']
+ Recall   :['0.00', '1.00']
+
+
+# mAP of all classes
+mAP = 0.00%
+
+# Number of ground-truth objects per class
+0: 112
+1: 139
+2: 125
+3: 150
+4: 123
+5: 98
+6: 117
+7: 128
+8: 130
+9: 112
